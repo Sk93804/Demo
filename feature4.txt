@@ -1,2 +1,3 @@
 Hii I'm Sudheesh
 I'am interested in learning DevOps 
+As of now I have completed learning git and AWS
